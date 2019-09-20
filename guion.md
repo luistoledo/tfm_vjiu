@@ -93,18 +93,19 @@ Sin embargo, algunos videojuegos _experiementales_ y **gameart** _rompen_ estas 
 
 Sin embargo, algunos videojuegos _experiementales_ y **gameart** _rompen_ estas reglas y demuestran **expresividad** 
 
-![tot_jodi](../images/graveyard_jodi.png)
+<!-- ![tot_jodi](../images/graveyard_jodi.png) -->
+![tot_jodi](../images/non-traditional.png)
 
 
 ---
 
 
-### Expresividad
+### Expresividad mecánica
 
 
 |  |  |
 |--|--|
-| ![jodi](../images/untitledgame-jodi.png) | ![marriage](../images/marriage2.png) |
+| ![snakisms](../images/snakisms-barr.png) | ![marriage](../images/marriage2.png) |
 
 
 ???
@@ -200,7 +201,7 @@ Opera tanto en videojuegos como interfaces
 ### Elementos narrativos
 
 
-![examples: ui narratives](../images/narrativity.png)
+![examples: ui narratives](../images/electric_herstory.png)
 
 
 Los elementos de la interfaz como:
@@ -220,8 +221,7 @@ Sus formas de narrar son:
 **Her Story** (2015) Muestra desde la UI
 
 
-**World of Awe** () Cuenta con elementos de UI
-net art; Esta no la mencioné en el texto
+**Electric File Monitor (2018)** () Cuenta con elementos de UI
 
 
 
@@ -461,7 +461,15 @@ Jørgensen 2013
 - Trabajo futuro
 
 
+???
 
 
+
+
+---
+
+
+
+Gracias
 
 
