@@ -132,9 +132,9 @@ Y las conclusiones de cierre
 
 - Interés personal y profesional
 - Observación de GUI dentro los videojuegos
-- ¿Qué hacen y qué dicen?
-- ¿Relacionadas con el arte digital?
-- ¿Pueden ser una herramienta crítica?
+    - ¿Qué hacen y qué dicen?
+    - ¿Relacionadas con el arte digital?
+    - ¿Pueden ser una herramienta crítica?
 
 ![](../images/referentes.png)
 
@@ -177,21 +177,21 @@ se puede ver que algunos vj experimentales y las formas de gameart _rompen_ esta
 
 ### No tradicional, mods y expresividad mecánica 
 
-<!-- ![tot_jodi](../images/graveyard_jodi.png) -->
-|  |  |
-|--|--|
-| ![snakisms](../images/snakisms-barr.png) | ![marriage](../images/marriage2.png) |
-|![tot_jodi](../images/non-traditional.png)|
+<!-- 
+    ![tot_jodi](../images/graveyard_jodi.png) 
+    ![marriage](../images/marriage2.png)
+-->
+![snakisms](../images/snakisms-barr.png)
+![tot_jodi](../images/non-traditional.png)
 
 
 ???
-
 
 Juegos donde no existe tal conflicto artificial, o los resultados no son cuantificables, como los juegos del colectivo **Tale of tales** antes netartistas también
 
 O los mods del colectivo **JODI** que se deshacen del feedback, rompen las representaciones y cambian las reglas
 
-y con ello desvelando los mecanismos internos del videojuego, y apelar a la exploración e interpetación del jugador
+y así muestra los mecanismos internos del videojuego, y apelar a la exploración e interpetación del jugador
 
 **Snakisms** de Pippin Barr lo muestra con modificaciones del clásico juego de la serpiente, cada una exhibiendo un _ismo_ o filosofía como capitalismo, pesimismo, existencialismo, utilitarismo
 
@@ -287,8 +287,9 @@ En el caso de los videojuegos de interfaz
 
 ???
 
-Entonces, 
-Usando el modelo MDA, propongo una **primera descripción** de los VJI
+Entonces,
+
+Usando este modelo, propongo una **primera descripción** de los VJI
 
 Como aquellos juegos que
 
@@ -313,20 +314,21 @@ Narratividad
 
 ![cibertext](../images/aarseth_cibertext.png)
 
-Los VJ se expresan por una lectura activa
+Lectura activa
 
 ???
 
-La teoría de tratar al VJ como cibertexto de Aarseth
+El modelo MDA no es apto para un análisis narrativo, es por ello que volteraremos a ver la teoría del  V como cibertexto de Espen Aarseth
+
+Una de las que inauguran los gamestudies
+
+En ella plantea que
 
 Todo texto no ordinario requiere esfuerzo, una lectura activa o ergódica del lector.
 
-Según la lectura interpretativa, explorativa, configurativa o textonica del usuario, el texto será estático o dinámico. 
+Según la lectura interpretativa, explorativa, o configurativa del usuario el texto será estático o dinámico
 
-
-Importante porque:
-Opera tanto en videojuegos como interfaces
-
+Esta perspectiva se basa precisamente en teorías de análisis narrativo 
 
 
 
@@ -335,11 +337,6 @@ Opera tanto en videojuegos como interfaces
 
 
 ### Elementos narrativos
-
-
-![examples: ui narratives](../images/electric_herstory.png)
-Nathalie Lawhead (2018), Sam Barlow (2014)
-
 
 Los elementos de la interfaz como:
 
@@ -354,6 +351,25 @@ Sus formas de narrar son:
 - **Mostrar** el desarrollo de una historia
 
 ???
+
+Uno de los esquemas de análisis narrativos más básicos que utiliza Aarseth para analizar las formas de narrar en la 
+
+Aarseth propone el modelo de 
+
+
+Podemos identificar los elementos de una narrativa clásica en cualquier videojuego.
+
+
+
+---
+
+
+![examples: ui narratives](../images/electric_herstory.png)
+Nathalie Lawhead (2018), Sam Barlow (2014)
+
+
+???
+
 
 
 **Electric File Monitor** Es una prisión industrial para tu computadora. > Un escaner reportará actividades sospechosas de tus archivos (hacer malas bromas o no saludar a sus amigos)
@@ -381,16 +397,18 @@ En este caso es la interfaz la muestra la historia y la hace visible e interpret
 
 ???
 
-La perspectiva del cibertexto tiene orígenes literarios,  se le opone la perspectiva de simulación de Gonzalo Frasca
+A las teorías narratológicas sobre los videojuegos hubo respuestas de otros autores, como Gonzalo Frasca quién propuse entender al videojuego como una simulación.
 
-En ella se propone entender al videojuego como una simulación.
+Donde dicha simulación ha sido diseñada a partir de la abstracción de un sistema de referencia: como una interacción social, un conflicto armado o un sistema económico.
 
-Una simulación que ejecuta el jugador interactuando con un modelo.
+Y en el caso los videojuegos, el jugador ejecuta esa simulación.
 
-Dicho modelo ha sido diseñado a partir de una abstracción de un sistema de referencia.
+Caba señalar que según esta perspectiava, los videojuegos filtran ideología, a partir de la manipulación del modelo de simulación en distintos niveles
+
 
 
 ---
+
 
 
 ### Simulación en el videojuego de interfaz
@@ -403,17 +421,15 @@ Dicho modelo ha sido diseñado a partir de una abstracción de un sistema de ref
 
 ???
 
-En este sentido, los videojuegos de interfaz tienen dos sistemas de referencia claramente diferenciados
+Bajo este modelo, entendemos que los videojuegos de interfaz tienen dos sistemas de referencia claramente diferenciados
 
-De la interfaz gráfica de usuario tradicional, como las que utilizamos o podríamos utilizar en la vida real, con sus reglas, estilos y tradiciones
+El de la interfaz gráfica de usuario tradicional, como las que utilizamos o podríamos utilizar en la vida real, con sus reglas, estilos y tradiciones
 
 Y
 
-Del universo del juego o su ficción, 
-como en cualquier otro videojuego; como un un caso policiaco, una amenaza zombie
+El del universo del juego o su ficción, el contexto del juego. como un un caso policiaco, una amenaza zombie como en cualquier videojuego
 
-
-Los videojuegos de interfaz se pueden una Doble simulación
+Propongo, pues, que los videojuegos de interfaz se pueden entender una Doble simulación
 
 
 ---
@@ -425,7 +441,15 @@ Los videojuegos de interfaz se pueden una Doble simulación
 ![ejemplos](../images/double_sim_examples.png)
 
 
+???
 
+Dos ejemplos:
+
+
+**Burry Me my Love** es un videojuego frances que narra la travesía de una chica Syria que intenta llegar a Alemania. El jugador representa a su novio quien se comunica la interfaz de una aplicación de mensajería instantanea
+
+
+<!-- 
 ---
 
 
@@ -452,7 +476,7 @@ Siendo los VJIU una doble simulación, esta manipulación puede ocurrir en ambos
 
 ---
 
-
+ -->
 
 ## Interacción e interfaces
 
@@ -668,8 +692,7 @@ De soporte. Cuando la interfaz es tan solo apoyo externo a la jugabilidad, como 
 
 ???
 
-En el apartado práctico quiero presentar dos ensayos, que no son conclusiones de la investigación sino ensayos de exploración sobre este objeto de estudio.
-
+En el apartado práctico quiero presentar dos ensayos, que no son conclusiones de la investigación sino ensayos de exploración sobre este objeto de estudio
 
 
 
@@ -701,9 +724,9 @@ Se trata de una instalación interactiva, que en presencia de espectadores exhi
 
 Dentro de la, cuelga una gran tela oscura sobre la que se proyectan las distintas capas que construyen la obra: el texto producido, los datos generados por la cámara infrarroja, y los archivos de audio
 
-El trabajo invita a un diálogo con la obra y a una una lectura subjetiva de espectarores activos, en una epoca donde la producción y distribución de información es prácticamente omnipresente
+El trabajo invita a un diálogo con la obra y a una una lectura subjetiva de espectarores activos, en una epoca donde la producción y distribución de información es prácticamente omnipresente.
 
-Además en esta obra me intersa 
+
 
 
 ---
@@ -724,9 +747,9 @@ Se trata de un pequeño juego para navegador y teléfono móvil que recrea una i
 
 El jugador es transportado a un sitio aislado solo con su dispositivo, que es su único mecanismo de escape
 
-Para lograrlo debe explorar la interfaz, averiguar información, modificar configuraciones e interactuar con las aplicaciones para resolver los acertijos que le permitan salir de su encierro
+Para conseguirlo debe explorar la interfaz, averiguar información, modificar configuraciones e interactuar con las aplicaciones para resolver los acertijos que le permitan salir de su encierro
 
-Se ha explorado la interfaz como
+En este proyecto quise experimentar con la expectativa que puede tener el jugador sobre una interfaz funcional utilizada como objeto de juego, y medio de exploración, así como la familiaridad que pueda tener con ella, para presentar un juego sin instrucciones mecánicas 
 
 
 ---
